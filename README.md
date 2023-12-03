@@ -1,2 +1,2 @@
 # configs-setup
-meu setup e minhas configs que uso, caso minha vó queira saber
+meu setup e minhas configs que uso no VS Code
