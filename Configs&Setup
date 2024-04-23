@@ -18,7 +18,7 @@ Monitor: 22MP55 60Hz (Res. Max: 1920x1080p)
 
 
 Config VSCode
-Theme: Mrit Theme Dark
-Font: Source Code Pro
-FontSize: 18
-Emacs Extension
+Theme: Steam Classic Theme
+Font: Fira Mono Medium
+FontSize: 20
+Emacs Extension*
