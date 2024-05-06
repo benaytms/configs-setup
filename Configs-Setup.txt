@@ -18,7 +18,7 @@ Monitor: 22MP55 60Hz (Res. Max: 1920x1080p)
 
 
 Config VSCode
-Theme: Robin's Blue Theme
+Theme: Doom Emacs
 Font: Fira Mono Medium
 FontSize: 20
 Emacs Extension*
