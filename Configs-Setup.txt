@@ -1,4 +1,4 @@
-Meu Setup
+Setup
 
 Case: Gabinete Mid-Tower PEGASUS HOT-SWAP 22419 - PCYES
 Motherboard: B450Mhp - MicroATX
@@ -20,7 +20,19 @@ Monitor: 22MP55 60Hz (Res. Max: 1920x1080p)
 Config VSCode
 Theme: Doom Emacs
 Font: Fira Mono Medium
-FontSize: 20
-Emacs Extension*
-
-* not always on
+FontSize: 18
+Extensions:
+C/C++
+C/C++ Extension Pack
+C/C++ Themes
+CMake
+CMake Tools
+Code Runner
+Emacs Friendly
+LaTex
+LaTeX Workshop
+Pylance
+Python
+Python Debugger
+rust
+Rust Syntax
