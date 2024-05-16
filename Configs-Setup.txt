@@ -21,6 +21,7 @@ Config VSCode
 Theme: Doom Emacs
 Font: Fira Mono Medium
 FontSize: 18
+
 Extensions:
 C/C++
 C/C++ Extension Pack
