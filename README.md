@@ -1,2 +1,2 @@
 # configs-setup
-setup & VSCODE configs
+My PC Setup and My VSCODE Configs
