@@ -17,9 +17,8 @@ Monitor: 22MP55 60Hz (Res. Max: 1920x1080p)
 OS: GNU/Linux OpenSUSE
 DesktopENV: KDE Plasma
 
-
-Config VSCode
-Theme: Doom Emacs
+VSCode Configs
+Theme: Subtle Blue
 Font: Source Pro Code Regular
 FontSize: 18
 
