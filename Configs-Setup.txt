@@ -21,7 +21,7 @@ DesktopENV: KDE Plasma
 
 Config VSCode
 Theme: Doom Emacs
-Font: Fira Mono Medium
+Font: Source Pro Code Regular
 FontSize: 18
 
 Extensions:
