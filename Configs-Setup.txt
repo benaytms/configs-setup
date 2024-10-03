@@ -5,7 +5,7 @@ Motherboard: B450Mhp - MicroATX
 Powe Supply: EVGA 850W B2 Supernova 
 CPU: Ryzen 5 5600X 3.7GHz (6 Cores - 12 Threads)
 Cooler: Wraith Stealth (CPU Stock Cooler)
-Fans: 4 that came with the case
+Fans: 3 that came with the case
 GPU: RX 6700XT 12gb VRAM
 RAM: 16gb 2666Mhz Kingston
 SSD: 1Tb - WD Green 2.5
@@ -14,26 +14,9 @@ Keyboard: some Microsoft generic
 Mouse: Cerberus Redragon
 Monitor: 22MP55 60Hz (Res. Max: 1920x1080p)
 
-OS: GNU/Linux OpenSUSE
-DesktopENV: KDE Plasma
+OS: GNU/Linux Mint 22 x86_64
+DesktopENV: Cinnamon 6.2.9
 
-VSCode Configs
-Theme: Subtle Blue
-Font: Source Pro Code Regular
-FontSize: 18
-
-Extensions:
-C/C++
-C/C++ Extension Pack
-C/C++ Themes
-CMake
-CMake Tools
-Code Runner
-Emacs Friendly
-LaTex
-LaTeX Workshop
-Pylance
-Python
-Python Debugger
-rust
-Rust Syntax
+Kate Text Editor Configs
+Theme: Breeze Light Customized
+Font: Monospace 14
