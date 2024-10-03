@@ -1,27 +1,27 @@
 ### ***Setup***
   
-Case: Gabinete Mid-Tower PEGASUS HOT-SWAP 22419 - PCYES  
-Motherboard: B450Mhp - MicroATX  
-Powe Supply: EVGA 850W B2 Supernova   
-CPU: Ryzen 5 5600X 3.7GHz (6 Cores - 12 Threads)  
-Cooler: Wraith Stealth (CPU Stock Cooler)  
-Fans: 3 that came with the case  
-GPU: RX 6700XT 12gb VRAM  
-RAM: 16gb 2666Mhz Kingston  
-SSD: 1Tb - WD Green 2.5  
-SSD: 240Gb - Kingston SV300S37A240G  
-Keyboard: some Microsoft generic  
-Mouse: Cerberus Redragon  
-Monitor: 22MP55 60Hz (Res. Max: 1920x1080p)  
+**Case**: _Gabinete Mid-Tower PEGASUS HOT-SWAP 22419 - PCYES_  
+**Motherboard**: _B450Mhp - MicroATX_  
+**Power Supply**: _EVGA 850W B2 Supernova_   
+**CPU**: _Ryzen 5 5600X 3.7GHz (6 Cores - 12 Threads)_  
+**Cooler**: _Wraith Stealth (CPU Stock Cooler)_  
+**Fans**: _3 that came with the case_  
+**GPU**: _RX 6700XT 12gb VRAM_  
+**RAM**: _16gb 2666Mhz Kingston_  
+**SSD**: _1Tb - WD Green 2.5_  
+**SSD**: _240Gb - Kingston SV300S37A240G_  
+**Keyboard**: _Microsoft Generic_  
+**Mouse**: _Cerberus Redragon_  
+**Monitor**: _22MP55 60Hz (Res. Max: 1920x1080p)_  
 
 
 ### ***OS***  
   
-GNU/Linux Mint 22 x86_64
-DesktopENV: Cinnamon 6.2.9
+_GNU/Linux Mint 22 x86_64_
+_Cinnamon 6.2.9_
 
 ### ***Text Editor***  
 
-Kate Editor
-Theme: Breeze Light Customized
-Font: Monospace 14
+_Kate Editor_
+***Theme***: _Breeze Light Customized_
+***Font***: _Monospace 14_
