@@ -17,11 +17,12 @@
 
 ### ***OS***  
   
-_GNU/Linux Mint 22 x86_64_  
-_Cinnamon 6.2.9_
+_GNU/Linux Debian 12 (bookworm) x86_64_  
+_Gnome 43.9_
 
 ### ***Text Editor***  
 
-_Kate Editor_  
-***Theme***: _Breeze Light Customized_  
-***Font***: _Monospace 14_
+Currently not using any text editors, but i use these when i code:  
+_Jupyter Notebooks_  
+_Positron_  
+_RStudio_
